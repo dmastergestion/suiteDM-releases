@@ -1,7 +1,9 @@
-﻿# herramientas-dm-releases
+﻿# suiteDM-releases
 
-Repositorio **solo de releases** del D&D Toolkit (ZIP portatil + manifest.json).
+ZIP públicos de **suiteDM** (mesa de roleo D&D 2024). Sin código fuente.
 
-- No contiene codigo fuente del monorepo.
-- Los masters con Lanzador_Toolkit.exe actualizan desde aqui.
-- Codigo privado: repo herramientas-dm.
+- Código privado: [suiteDM](https://github.com/dmastergestion/suiteDM)
+- Combate (tracker, fichas, física): repo hermano **trackerDM**
+- La suite se actualiza desde las releases de este repo (`manifest.json` + ZIP)
+
+Versión actual del código: **1.0.15**.
